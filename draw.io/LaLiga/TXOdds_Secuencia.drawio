@@ -1,1 +1,100 @@
-<mxfile host="www.draw.io" modified="2019-12-18T11:02:37.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" version="12.4.3" etag="7TAgDhJAoMzRYusRZzYY" type="github" pages="1"><diagram id="af5fKmIW8S9w6IEvJGaG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-18T17:19:44.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="pScsTF4eSAgG8Gss37qt" version="12.4.3" type="github" pages="1">
+  <diagram id="af5fKmIW8S9w6IEvJGaG" name="Page-1">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="s_TitawoScat0cO_zlr0-1" value="TXODDS" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="120" width="480" height="480" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="745" y="280" width="410" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-2" value="Queue System" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="s_TitawoScat0cO_zlr0-6">
+          <mxGeometry width="410" height="250" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="s_TitawoScat0cO_zlr0-6" source="s_TitawoScat0cO_zlr0-3" target="s_TitawoScat0cO_zlr0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-75" y="78"/>
+              <mxPoint x="-75" y="123"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-20" value="5 - Create personal data queue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-19">
+          <mxGeometry x="0.0057" y="3" relative="1" as="geometry">
+            <mxPoint x="-53" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-3" value="Control Queue" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="s_TitawoScat0cO_zlr0-6">
+          <mxGeometry x="10" y="40" width="370" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-5" value="Data Queue" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="s_TitawoScat0cO_zlr0-6">
+          <mxGeometry x="10" y="110" width="370" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-4" value="Monitor Queue" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="s_TitawoScat0cO_zlr0-6">
+          <mxGeometry x="10" y="180" width="370" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="s_TitawoScat0cO_zlr0-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="215" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-13" value="&amp;nbsp;2 - Return Server Name&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-12">
+          <mxGeometry x="0.0286" y="-5" relative="1" as="geometry">
+            <mxPoint x="-127.97999999999999" y="5.43" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-7" value="API&lt;br&gt;Server selector" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="170" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="s_TitawoScat0cO_zlr0-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="193" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-11" value="1 - Send Request for Server:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-10">
+          <mxGeometry x="-0.44" y="-1" relative="1" as="geometry">
+            <mxPoint x="50.040000000000006" y="-4.629999999999999" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="s_TitawoScat0cO_zlr0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="302" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-15" value="&amp;nbsp;3 - Connect to queue system&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-14">
+          <mxGeometry x="-0.1767" y="6" relative="1" as="geometry">
+            <mxPoint x="-1.9699999999999989" y="4.83" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s_TitawoScat0cO_zlr0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="345" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-17" value="&amp;nbsp;4 - Send message to control queue&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-16">
+          <mxGeometry y="-32" relative="1" as="geometry">
+            <mxPoint x="-56.620000000000005" y="-34.489999999999995" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="s_TitawoScat0cO_zlr0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="420" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-22" value="&amp;nbsp;6 - Suscribe to data queue&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-21">
+          <mxGeometry x="0.0207" y="-4" relative="1" as="geometry">
+            <mxPoint x="-65.99" y="-5.02" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-23" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="540" as="sourcePoint"/>
+            <mxPoint x="60" y="160" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
