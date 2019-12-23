@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T12:08:28.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="bEVrCzCl1hoRIzc-8E4b" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-23T12:10:51.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="mZXWYZ6VrxZdtRX9VtW5" version="12.4.3" type="github" pages="1">
   <diagram id="af5fKmIW8S9w6IEvJGaG" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
         </mxCell>
         <mxCell id="s_TitawoScat0cO_zlr0-13" value="&amp;nbsp;2 - Return Server Name&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-12">
           <mxGeometry x="0.0286" y="-5" relative="1" as="geometry">
-            <mxPoint x="-127.97999999999999" y="5.43" as="offset"/>
+            <mxPoint x="-115.97999999999999" y="5.43" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="s_TitawoScat0cO_zlr0-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="s_TitawoScat0cO_zlr0-7">
@@ -32,19 +32,9 @@
             <mxPoint x="140" y="312" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_TitawoScat0cO_zlr0-15" value="&amp;nbsp;3 - Connect to queue system&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-14">
+        <mxCell id="s_TitawoScat0cO_zlr0-15" value="&amp;nbsp;3 - Connect to queue server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-14">
           <mxGeometry x="-0.1767" y="6" relative="1" as="geometry">
             <mxPoint x="-1.9699999999999989" y="4.83" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_TitawoScat0cO_zlr0-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s_TitawoScat0cO_zlr0-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="355" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_TitawoScat0cO_zlr0-17" value="&amp;nbsp;4 - Send message to control queue&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-16">
-          <mxGeometry y="-32" relative="1" as="geometry">
-            <mxPoint x="-56.620000000000005" y="-34.489999999999995" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="s_TitawoScat0cO_zlr0-23" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -94,23 +84,24 @@
             <mxPoint x="-65.99" y="-5.02" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_TitawoScat0cO_zlr0-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="s_TitawoScat0cO_zlr0-5">
+        <mxCell id="s_TitawoScat0cO_zlr0-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="438" as="targetPoint"/>
+            <mxPoint x="140" y="444" as="targetPoint"/>
+            <mxPoint x="835" y="443.5" as="sourcePoint"/>
             <Array as="points">
-              <mxPoint x="480" y="438"/>
+              <mxPoint x="480" y="444"/>
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_TitawoScat0cO_zlr0-31" value="&amp;nbsp;Continuos data&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-26">
+        <mxCell id="s_TitawoScat0cO_zlr0-31" value="&amp;nbsp;Continuous data&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-26">
           <mxGeometry x="0.1309" y="2" relative="1" as="geometry">
             <mxPoint y="-3" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="s_TitawoScat0cO_zlr0-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="480" as="sourcePoint"/>
-            <mxPoint x="835" y="480" as="targetPoint"/>
+            <mxPoint x="140" y="484" as="sourcePoint"/>
+            <mxPoint x="835" y="484" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="s_TitawoScat0cO_zlr0-30" value="&amp;nbsp;Suscribe to monitor queue&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-29">
@@ -120,10 +111,10 @@
         </mxCell>
         <mxCell id="s_TitawoScat0cO_zlr0-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="500.5" as="targetPoint"/>
-            <mxPoint x="835" y="500" as="sourcePoint"/>
+            <mxPoint x="140" y="508.5" as="targetPoint"/>
+            <mxPoint x="835" y="508" as="sourcePoint"/>
             <Array as="points">
-              <mxPoint x="480" y="500.5"/>
+              <mxPoint x="480" y="508.5"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -134,6 +125,16 @@
         </mxCell>
         <mxCell id="s_TitawoScat0cO_zlr0-34" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="90" y="140" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s_TitawoScat0cO_zlr0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="355" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_TitawoScat0cO_zlr0-17" value="&amp;nbsp;4 - Send message to control queue&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="s_TitawoScat0cO_zlr0-16">
+          <mxGeometry y="-32" relative="1" as="geometry">
+            <mxPoint x="-56.620000000000005" y="-34.489999999999995" as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
