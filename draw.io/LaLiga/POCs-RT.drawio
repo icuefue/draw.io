@@ -1,10 +1,13 @@
-<mxfile modified="2020-01-14T13:21:46.218Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ELdfnq7QvJAGJv9KnheS" version="12.5.1" type="github">
+<mxfile modified="2020-01-14T13:23:33.734Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="pZPyukXBm7dxrFy7sob-" version="12.5.1" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1673" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="4RxKYgn0qR_m9qoCmRMX-3" value="Indexed Persistence Layer" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="4RxKYgn0qR_m9qoCmRMX-5" value="General Visualization" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1049.5" y="470" width="154.13" height="310" as="geometry"/>
+        </mxCell>
+        <mxCell id="4RxKYgn0qR_m9qoCmRMX-3" value="Time Series Visualization" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1049.5" y="310" width="154.13" height="160" as="geometry"/>
         </mxCell>
         <mxCell id="eJdakBoyYA-IccCKIUeP-35" value="Indexed Persistence Layer" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
@@ -118,8 +121,8 @@
         <mxCell id="4RxKYgn0qR_m9qoCmRMX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.03;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#808080;" edge="1" parent="1" source="eJdakBoyYA-IccCKIUeP-29" target="4RxKYgn0qR_m9qoCmRMX-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1130" y="715"/>
-              <mxPoint x="1130" y="611"/>
+              <mxPoint x="1071" y="715"/>
+              <mxPoint x="1071" y="611"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -159,16 +162,13 @@
           <mxGeometry x="941.7504545454545" y="370" width="55" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eJdakBoyYA-IccCKIUeP-33" value="Grafana" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/8135670941548141941-128.png;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1147.0645454545454" y="370" width="60" height="60" as="geometry"/>
+          <mxGeometry x="1100.0045454545455" y="370.5" width="60" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="eJdakBoyYA-IccCKIUeP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#808080;" parent="1" source="eJdakBoyYA-IccCKIUeP-32" target="eJdakBoyYA-IccCKIUeP-33" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="eJdakBoyYA-IccCKIUeP-14" value="Analityc and Visualization Layer" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="470" width="160" height="310" as="geometry"/>
-        </mxCell>
         <mxCell id="4RxKYgn0qR_m9qoCmRMX-1" value="Power BI" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.cloud.power_bi_embedded;fillColor=#000000;pointerEvents=1;labelBackgroundColor=#ffffff;spacingTop=7;" vertex="1" parent="1">
-          <mxGeometry x="1130.5" y="588" width="47" height="50" as="geometry"/>
+          <mxGeometry x="1103.07" y="588" width="47" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
