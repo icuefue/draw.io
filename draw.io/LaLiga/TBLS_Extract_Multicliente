@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T16:03:08.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="bmM-YzTC9RUKABbiRSuo" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T16:56:18.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="uwOl3V0saiFSw5Wxuo7g" version="13.10.2" type="github">
   <diagram id="17SitMsd5_4aIP2t0Eez" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="25" width="980" height="485" as="geometry" />
         </mxCell>
         <mxCell id="LWWKB5KdBkCoXGCTJK5c-65" value="Multicliente (un elemento por cada cliente)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="155" width="410" height="215" as="geometry" />
+          <mxGeometry x="1020" y="25" width="410" height="485" as="geometry" />
         </mxCell>
         <mxCell id="LWWKB5KdBkCoXGCTJK5c-55" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="560" y="270" width="200" height="140" as="geometry" />
