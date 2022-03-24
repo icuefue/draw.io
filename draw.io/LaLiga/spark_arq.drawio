@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T22:54:31.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aQvV4VX8SPqhPs59XNZ4" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T23:05:02.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NoTl4pOUlHTUTMh66LLg" version="17.2.1" type="github">
   <diagram id="_XrspDm4CT6pKrm3N8ds" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,17 +22,110 @@
         <mxCell id="gP4Qixjct3OQD2GkQfFc-30" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="473" y="500" width="297" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-31" value="tab1 = spark.sql(&quot;select * from tabla1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="165.5" y="60" width="500" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-32" value="dataframe&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="280" y="180" width="160" height="70" as="geometry" />
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-32" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-33" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="530" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-34" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-35" value="Servidor 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="73" y="1200" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-36" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="86" y="1240" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-37" value="Servidor 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="267" y="850" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-38" value="Driver" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="890" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-39" value="Servidor 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="473" y="1200" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-40" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="486" y="1240" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-42" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="293" y="920" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-43" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="1270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-44" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="1270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-45" value="tab2&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df2.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="450" y="920" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-46" value="df2.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-47" value="df2.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605.5" y="1270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-48" value="df2.part2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-49" value="df2.part3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-50" value="Servidor 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1910" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-51" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="93" y="1950" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-52" value="Servidor 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="274" y="1560" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-53" value="Driver" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="287" y="1600" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-54" value="Servidor 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1910" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-55" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="493" y="1950" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-56" value="tab3 = spark.sql(&quot;select * from tab1 join tab2 on campoX)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185.5" y="1510" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-57" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-58" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1980" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-59" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1980" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-60" value="tab2&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df2.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="457" y="1630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-61" value="df2.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217" y="1980" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-62" value="df2.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="1980" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-63" value="df2.part2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="1980" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-64" value="df2.part3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="1980" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-65" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="377" y="1693.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-67" value="tab3 = spark.sql(&quot;select * from tab1 join tab2 on campoX)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="178.5" y="800" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-68" value="tab3 = spark.sql(&quot;select * from tab1 join tab2 on campoX)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="178.5" y="50" width="500" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
