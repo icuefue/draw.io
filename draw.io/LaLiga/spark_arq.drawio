@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T17:20:28.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.2.1" etag="Ud7A-oaLQcUNwlM5F-sJ" type="github"><diagram id="_XrspDm4CT6pKrm3N8ds">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-24T22:54:31.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aQvV4VX8SPqhPs59XNZ4" version="17.2.1" type="github">
+  <diagram id="_XrspDm4CT6pKrm3N8ds" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-8" value="Servidor 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-9" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="73" y="500" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-27" value="Servidor 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="254" y="110" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-28" value="Driver" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="267" y="150" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-29" value="Servidor 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-30" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="473" y="500" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-31" value="tab1 = spark.sql(&quot;select * from tabla1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165.5" y="60" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-32" value="dataframe&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-33" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-34" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
