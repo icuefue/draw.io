@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T23:09:42.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="hIbFfSovoUHb0X5xS46H" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T23:32:41.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6YleL18OByodH7uFyS4J" version="17.2.1" type="github">
   <diagram id="_XrspDm4CT6pKrm3N8ds" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,25 +52,25 @@
         <mxCell id="gP4Qixjct3OQD2GkQfFc-42" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="293" y="920" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-43" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-43" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="103" y="1270" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-44" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-44" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="503" y="1270" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-45" value="tab2&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df2.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part1&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part2&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part3" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="450" y="920" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-46" value="df2.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-46" value="df2.part0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="210" y="1270" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-47" value="df2.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-47" value="df2.part1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="605.5" y="1270" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-48" value="df2.part2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-48" value="df2.part2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="300" y="1270" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-49" value="df2.part3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-49" value="df2.part3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="690" y="1270" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-50" value="Servidor 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
@@ -86,10 +86,10 @@
           <mxGeometry x="287" y="1600" width="297" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-54" value="Servidor 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1910" width="320" height="220" as="geometry" />
+          <mxGeometry x="480" y="1910" width="320" height="310" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-55" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="493" y="1950" width="297" height="160" as="geometry" />
+          <mxGeometry x="493" y="1950" width="297" height="240" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-56" value="tab3 = spark.sql(&quot;select * from tab1 join tab2 on campoX)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185.5" y="1510" width="500" height="30" as="geometry" />
@@ -97,23 +97,8 @@
         <mxCell id="gP4Qixjct3OQD2GkQfFc-57" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="300" y="1630" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-58" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-58" value="df1.part0.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="110" y="1980" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-59" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1980" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-61" value="df2.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="217" y="1980" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-62" value="df2.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="612.5" y="1980" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-63" value="df2.part2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307" y="1980" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-64" value="df2.part3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="697" y="1980" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-67" value="tab2 = spark.sql(&quot;select * from tab2&quot;)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="178.5" y="800" width="500" height="30" as="geometry" />
@@ -124,11 +109,251 @@
         <mxCell id="gP4Qixjct3OQD2GkQfFc-69" value="tab2&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df2.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part1&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part2&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part3" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="460" y="1630" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-70" value="Paso 1: Shuffle!!!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-70" value="Paso 1: Ordenar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="280" y="1810" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-71" value="Ordenar los registros de cada tabla por la clave de join y trocear en más ficheros conociendo max y min" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-71" value="Ordenar los registros de cada tabla por la clave de join y trocear en más ficheros conociendo max y min&lt;br&gt;NO HAY MOVIMIENTO DE RED" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="1850" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-72" value="df1.part0.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2080" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-73" value="df2.part0.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1980" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-74" value="df2.part0.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="227" y="2080" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-75" value="df2.part2.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="313" y="1980" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-76" value="df2.part2.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="313" y="2080" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-77" value="df1.part1.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="504" y="1985" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-78" value="df1.part1.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="504" y="2085" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-79" value="df2.part1.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="621" y="1985" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-80" value="df2.part1.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="621" y="2085" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-81" value="df2.part3.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="707" y="1985" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-82" value="df2.part3.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="707" y="2085" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-83" value="Servidor 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2420" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-84" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="103" y="2460" width="297" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-87" value="Servidor 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2420" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-88" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="503" y="2460" width="297" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-91" value="df1.part0.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2490" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-93" value="Paso 2: Shuffle!!!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2320" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-94" value="Se redistribuyen las particiones para que esten en la misma máquina las que tienen mismos limites&lt;br&gt;&lt;b&gt;¡¡¡HAY MOVIMIENTO DE RED!!!&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2360" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-95" value="df1.part0.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="514" y="2500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-96" value="df2.part0.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="237" y="2490" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-97" value="df2.part0.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="631" y="2500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-98" value="df2.part2.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="323" y="2490" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-99" value="df2.part2.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="717" y="2500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-100" value="df1.part1.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-101" value="df1.part1.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="514" y="2595" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-102" value="df2.part1.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="237" y="2590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-103" value="df2.part1.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="631" y="2595" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-104" value="df2.part3.1&lt;br&gt;min: 0&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="323" y="2590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-105" value="df2.part3.2&lt;br&gt;min: 6&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="717" y="2595" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-106" value="Servidor 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3010" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-107" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="93" y="3050" width="297" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-108" value="Servidor 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3010" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-109" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="493" y="3050" width="297" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-111" value="Paso 3: Internal Order Shuffle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2910" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-112" value="Se reordenan y redistribuyen las particiones de nuevo&lt;br&gt;&lt;b&gt;¡¡¡NO HAY MOVIMIENTO DE RED!!!&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2950" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-113" value="df1.part0.2&lt;br&gt;min: 6&lt;br&gt;max: 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="534" y="3090" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-115" value="df2.part0.2&lt;br&gt;min: 6&lt;br&gt;max: 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="631" y="3090" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-117" value="df2.part2.2&lt;br&gt;min: 8&lt;br&gt;max: 9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="717" y="3090" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-119" value="df1.part1.2&lt;br&gt;min: 8&lt;br&gt;max: 9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="504" y="3185" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-123" value="df2.part3.2&lt;br&gt;min: 10&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="685.5" y="3185" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-128" value="df1.part0.1&lt;br&gt;min: 1&lt;br&gt;max: 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3090" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-129" value="df2.part0.1&lt;br&gt;min: 1&lt;br&gt;max: 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="243" y="3090" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-130" value="df2.part2.1&lt;br&gt;min: 3&lt;br&gt;max: 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="3090" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-131" value="df1.part1.1&lt;br&gt;min: 3&lt;br&gt;max: 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="111.5" y="3190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-132" value="df2.part1.1&lt;br&gt;min: 5&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="284" y="3185" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-134" value="df1.part2.1&lt;br&gt;min: 5&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="188.5" y="3190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-135" value="df1.part2.1&lt;br&gt;min: 10&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="584" y="3185" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-136" value="Servidor 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3490" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-137" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="93" y="3530" width="297" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-138" value="Servidor 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="3490" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-139" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="493" y="3530" width="297" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-140" value="Paso 4: Join" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3390" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-141" value="Se hace el join mediante particiones 2 a 2&lt;br&gt;&lt;b&gt;¡¡¡NO HAY MOVIMIENTO DE RED!!!&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="3430" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-142" value="df1.part0.2&lt;br&gt;min: 6&lt;br&gt;max: 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="514" y="3570" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-143" value="df2.part0.2&lt;br&gt;min: 6&lt;br&gt;max: 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="574" y="3570" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-144" value="df2.part2.2&lt;br&gt;min: 8&lt;br&gt;max: 9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="717" y="3570" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-145" value="df1.part1.2&lt;br&gt;min: 8&lt;br&gt;max: 9" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="657" y="3570" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-146" value="df2.part3.2&lt;br&gt;min: 10&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="574" y="3660" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-147" value="df1.part0.1&lt;br&gt;min: 1&lt;br&gt;max: 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3570" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-148" value="df2.part0.1&lt;br&gt;min: 1&lt;br&gt;max: 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3570" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-149" value="df2.part2.1&lt;br&gt;min: 3&lt;br&gt;max: 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="3570" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-150" value="df1.part1.1&lt;br&gt;min: 3&lt;br&gt;max: 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3570" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-151" value="df2.part1.1&lt;br&gt;min: 5&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="223" y="3665" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-152" value="df1.part2.1&lt;br&gt;min: 5&lt;br&gt;max: 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="163" y="3665" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-153" value="df1.part2.1&lt;br&gt;min: 10&lt;br&gt;max: 10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="634" y="3660" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-154" value="Servidor 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="86" y="4020" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-155" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="99" y="4060" width="297" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-156" value="Servidor 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="486" y="4020" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-157" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="499" y="4060" width="297" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-158" value="Paso 5: Reduce" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="286" y="3920" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-159" value="Se fusionan las particiones&lt;br&gt;&lt;b&gt;¡¡¡NO HAY MOVIMIENTO DE RED!!!&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="136" y="3960" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-160" value="df1.part0.2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="4100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-163" value="df1.part1.2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="663" y="4100" width="117" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-164" value="df2.part3.2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="580" y="4190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-165" value="df3.part0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="126" y="4100" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-168" value="df3.part1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="266" y="4100" width="114" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-170" value="df3.part2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="169" y="4195" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-172" value="Servidor 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="283" y="4380" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-173" value="Driver" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="296" y="4420" width="297" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-174" value="tab3&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df3.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df3.part1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df3.part2&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df3.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df3.part1&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df3.part2" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="309" y="4450" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
