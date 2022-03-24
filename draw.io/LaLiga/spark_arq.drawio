@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T23:32:41.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6YleL18OByodH7uFyS4J" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T23:35:31.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="qlT_SMfgxzN_AmMaRsLN" version="17.2.1" type="github">
   <diagram id="_XrspDm4CT6pKrm3N8ds" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,13 +22,13 @@
         <mxCell id="gP4Qixjct3OQD2GkQfFc-30" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="473" y="500" width="297" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-32" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-32" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-33" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-33" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="90" y="530" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-34" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-34" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="490" y="530" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-35" value="Servidor 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="gP4Qixjct3OQD2GkQfFc-40" value="Executor 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="486" y="1240" width="297" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-42" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-42" value="tab1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df1.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df1.part1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="293" y="920" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-43" value="df1.part0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
         <mxCell id="gP4Qixjct3OQD2GkQfFc-44" value="df1.part1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="503" y="1270" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-45" value="tab2&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df2.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part1&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part2&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part3" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-45" value="tab2&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df2.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part1&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part2&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df2.part3" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="450" y="920" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-46" value="df2.part0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
@@ -271,7 +271,7 @@
         <mxCell id="gP4Qixjct3OQD2GkQfFc-140" value="Paso 4: Join" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="280" y="3390" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gP4Qixjct3OQD2GkQfFc-141" value="Se hace el join mediante particiones 2 a 2&lt;br&gt;&lt;b&gt;¡¡¡NO HAY MOVIMIENTO DE RED!!!&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gP4Qixjct3OQD2GkQfFc-141" value="Se hace el join mediante particiones de 2 en 2&lt;br&gt;&lt;b&gt;¡¡¡NO HAY MOVIMIENTO DE RED!!!&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="3430" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-142" value="df1.part0.2&lt;br&gt;min: 6&lt;br&gt;max: 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
@@ -353,7 +353,7 @@
           <mxGeometry x="296" y="4420" width="297" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gP4Qixjct3OQD2GkQfFc-174" value="tab3&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df3.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df3.part1&lt;br&gt;&amp;nbsp; &amp;nbsp; s2.df3.part2&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df3.part0&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df3.part1&lt;br&gt;&amp;nbsp; &amp;nbsp; s3.df3.part2" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="309" y="4450" width="100" height="60" as="geometry" />
+          <mxGeometry x="309" y="4450" width="100" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
